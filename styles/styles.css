@@ -331,8 +331,8 @@ body.red-theme {
 }
 
 body.blue-theme {
-  --main-accent-color: #2563EB;   /* Modern Bright Blue */
-  --link-hover-color: #3B82F6;    /* Lighter Sky Blue */
+  --main-accent-color: #072447;   /* Modern Bright Blue */
+  --link-hover-color: #122e50;    /* Lighter Sky Blue */
 }
 
 body.green-theme {
